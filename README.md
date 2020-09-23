@@ -14,6 +14,6 @@ O deploy do projeto foi feito no site Netlify e o resultado final pode ser confe
 
 :small_blue_diamond: CSS3
 
-:small_yellow_diamond: JavaScript
+:star2: JavaScript
 
 # Status: Done :heavy_check_mark:
