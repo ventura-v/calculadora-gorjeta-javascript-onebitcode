@@ -15,7 +15,7 @@ body{
 .container{
   margin: 50px auto;
   width: 360px;
-  height: 85vh;
+  height: 566px;
   background: #f7f7f7;
   border-radius: 20px;
 }
@@ -192,7 +192,11 @@ p.thanks{
   }
 
   #icon-container{
-    display: none;
+    display: none
+  }
+
+  .piggy{
+    left: 150px;
   }
 
   p.thanks{
@@ -202,6 +206,10 @@ p.thanks{
 }
 
 @media (max-width: 325px){
+
+  .container{
+    height: 480px;
+  }
 
   h1.title{
     font-size: 16px;
